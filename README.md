@@ -1,1 +1,1 @@
-# rsschool-cv
+https://diabolicsound.github.io/rsschool-cv/cv
