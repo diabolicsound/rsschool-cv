@@ -1,0 +1,15 @@
+h1, li {
+  color: lightyellow; 
+}
+h1 {
+    padding-left: 50%;
+    padding-top: 10px;
+}
+main {
+     width: 1024px;
+    background-color: darkred;
+    
+}
+img {
+    padding-left: 10%;
+}
